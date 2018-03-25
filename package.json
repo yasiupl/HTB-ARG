@@ -1,0 +1,19 @@
+{
+  "name": "htbarg",
+  "version": "1.0.0",
+  "description": "HTB challenge",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "htb"
+  ],
+  "git": "https://github.com/yasiupl/HTB-ARG.git",
+  "author": "yasiu.pl",
+  "license": "ISC"
+}
